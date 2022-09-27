@@ -4,3 +4,5 @@
 
   ## Description
   This project is an html email template that is mobile responsive
+
+![Screen Shot 2022-09-27 at 2 31 32 PM](https://user-images.githubusercontent.com/93016157/192639549-79075261-93cb-4232-8310-b00564ceaea3.png)
